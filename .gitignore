@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Models & artifacts
+*.pkl
+*.joblib
+model/
+artifacts/
+notebooks/artifacts/
+
+# Databases / warehouses
+warehouse/
+*.db
+
+# Caches
+cache/
+
+# Visual outputs
+visuals/
+outputs/
+
+# OS junk
+.DS_Store
+
+*.pkl
+notebooks/artifacts/
+model/
