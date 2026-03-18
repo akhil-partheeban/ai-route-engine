@@ -1,6 +1,6 @@
 # AI Route Optimization Decision System
 
-<<<<<<< HEAD
+
 # This project explores ML-driven routing decisions on real OpenStreetMap road networks.
 
 ## Overview
